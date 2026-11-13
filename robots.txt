@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://thebiblefst.github.io/sitemap.xml

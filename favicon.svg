@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+<rect width="1024" height="1024" rx="192" fill="#182F46"/>
+<circle cx="512" cy="512" r="399" fill="none" stroke="#F7F4ED" stroke-opacity="0.15" stroke-width="3"/>
+<g stroke="#B77A50" stroke-width="13" stroke-linecap="round">
+<path d="M512 225 V273"/><path d="M443 265 L423 243"/><path d="M581 265 L601 243"/>
+</g>
+<circle cx="512" cy="333" r="15" fill="#B77A50"/>
+<!-- open book pages -->
+<path d="M512 465 C414 413 312 412 220 453 L220 741 C338 694 421 711 512 768 Z" fill="#F7F4ED"/>
+<path d="M512 465 C610 413 712 412 804 453 L804 741 C686 694 603 711 512 768 Z" fill="#F7F4ED"/>
+<path d="M512 465 L512 768" stroke="#182F46" stroke-width="10" stroke-linecap="round"/>
+<!-- quiet typography-like guide lines -->
+<g stroke="#182F46" stroke-opacity="0.33" stroke-width="10" stroke-linecap="round" fill="none">
+ <path d="M269 515 Q365 484 455 522"/>
+ <path d="M269 564 Q365 533 455 570"/>
+ <path d="M269 613 Q365 583 455 621"/>
+ <path d="M755 515 Q659 484 569 522"/>
+ <path d="M755 564 Q659 533 569 570"/>
+ <path d="M755 613 Q659 583 569 621"/>
+</g>
+<path d="M208 794 Q362 731 512 820 Q662 731 816 794" fill="none" stroke="#B77A50" stroke-width="21" stroke-linecap="round"/>
+</svg>
